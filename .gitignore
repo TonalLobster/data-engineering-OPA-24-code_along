@@ -1,6 +1,5 @@
 # Project specific files
 .project-metadata.json.bak
-*.csv
 *.duckdb
 .dlt/
 secrets.toml
@@ -8,8 +7,6 @@ config.toml
 
 # Project specific directories and files
 .dbeaver/
-myhdashboard/
-data/
 Scripts/
 
 # Optional - specific files if you don't want them tracked
