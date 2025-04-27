@@ -9,8 +9,9 @@ config.toml
 .dbeaver/
 Scripts/
 
-# Optional - specific files if you don't want them tracked
-*.ipynb
+
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
