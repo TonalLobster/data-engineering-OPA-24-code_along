@@ -10,7 +10,11 @@ config.toml
 Scripts/
 
 
-
+# Files added for code along video aobut api extraction
+.DS_Store
+*.wal
+ads_data_warehouse.duckdb
+.vscode
 
 
 # Byte-compiled / optimized / DLL files
